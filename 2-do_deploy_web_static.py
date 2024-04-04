@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Fabric script that distributes an archive to your web servers
+Fabric script that creates and distributes an archive to web servers
 """
 
 from datetime import datetime
